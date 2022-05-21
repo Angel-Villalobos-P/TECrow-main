@@ -1,0 +1,21 @@
+.title {
+  position: relative;
+  color: #002a59;
+  text-align: left;
+}
+
+.subTitle {
+  position: relative;
+  color: #006c7e;
+  text-align: left;
+}
+
+.btn-back {
+  margin-right: 31cm;
+  /* color: white; */
+}
+
+.card {
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+}

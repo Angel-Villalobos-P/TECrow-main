@@ -1,0 +1,55 @@
+.titulo {
+  text-align: left;
+  position: relative;
+  padding-bottom: 0.3rem;
+  font-weight: lighter;
+  font-size: 1.2rem;
+}
+
+.input {
+  margin-bottom: 1rem;
+}
+
+.btn {
+  text-align: center;
+}
+#btnRegistrar,
+#btnCancelar {
+  display: inline-block;
+}
+
+.btn {
+  margin: 0.5rem;
+}
+
+#btnRegistrar {
+  color: #00c1b0;
+  background-color: white;
+  border-color: #00c1b0;
+  border-radius: 1.2em;
+  font-size: 1.2rem;
+}
+
+#btnRegistrar:hover {
+  color: white;
+  background-color: #00c1b0;
+  border-color: #fff;
+  border-radius: 1.2em;
+  font-size: 1.2rem;
+}
+
+#btnCancelar {
+  color: #006c7e;
+  background-color: white;
+  border-color: #006c7e;
+  border-radius: 1.2em;
+  font-size: 1.2rem;
+}
+
+#btnCancelar:hover {
+  color: #fff;
+  background-color: #006c7e;
+  border-color: #fff;
+  border-radius: 1.2em;
+  font-size: 1.2rem;
+}

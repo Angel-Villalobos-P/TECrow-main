@@ -1,0 +1,49 @@
+.errorMsg {
+  font-size: 0.7em;
+  text-align: center;
+  margin: 0;
+}
+
+.imgPreview {
+  text-align: center;
+}
+
+.btnEliminarImg {
+  font-size: 1rem;
+  color: #002a59;
+  border: none;
+  font-size: 1em;
+  margin: 0.3em;
+  background: #fff;
+}
+
+.imgPreview input[type="file"] {
+  display: none;
+}
+
+.imgPreview .customFileUpload {
+  color: #002a59;
+  font-size: 1.3em;
+  font-weight: 500;
+  padding: 0em 0em;
+  cursor: pointer;
+}
+
+.addicon {
+  cursor: pointer;
+  font-size: 1.5em;
+  color: #ffc953;
+  padding: auto;
+}
+
+.card-img-top-imgloader {
+  transform: scale(1);
+  transition: all 0.2s none;
+  height: 300px;
+  max-height: 300px;
+  width: auto;
+  object-fit: fill;
+}
+.card-img-top-imgloader:hover {
+  transform: scale(0.99);
+}

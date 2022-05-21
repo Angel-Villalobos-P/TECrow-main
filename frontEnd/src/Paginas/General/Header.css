@@ -1,0 +1,21 @@
+#NavLink {
+  color: white;
+}
+#Nav {
+  justify-content: space-around;
+}
+
+.imagenCircular {
+  border-radius: 50%;
+  width: 4rem;
+  height: 4rem;
+}
+
+.dropdown-menu-right {
+  right: 0;
+  left: auto;
+}
+.imagenCircular {
+  width: 2.7em;
+  height: 2.5em;
+}

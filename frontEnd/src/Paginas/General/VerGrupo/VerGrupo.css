@@ -1,0 +1,19 @@
+.homeLink {
+  color: #ffc953;
+}
+.edit {
+  color: #ffc953;
+}
+.subTitle {
+  position: relative;
+  color: #006c7e;
+  text-align: left;
+}
+.aggSelect {
+  float: left;
+}
+.btnAgg {
+  float: right;
+  overflow: hidden;
+  width: 150px;
+}

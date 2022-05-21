@@ -1,0 +1,25 @@
+.bRespuestas {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+.buttons button {
+  width: 100%;
+}
+
+#btnSiguiente {
+  color: #006c7e;
+  background-color: white;
+  border-color: #006c7e;
+  border-radius: 1.2em;
+  font-size: 1.2rem;
+}
+
+#btnSiguiente:hover {
+  color: white;
+  background-color: #006c7e;
+  border-color: #fff;
+  border-radius: 1.2em;
+  font-size: 1.2rem;
+}

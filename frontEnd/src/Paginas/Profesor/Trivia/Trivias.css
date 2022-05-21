@@ -1,0 +1,92 @@
+.title {
+  position: relative;
+  color: #002a59;
+  text-align: left;
+}
+
+.subTitle {
+  position: relative;
+  color: #006c7e;
+  text-align: left;
+}
+
+.btn-back {
+  margin-right: 31cm;
+  /* color: white; */
+}
+
+.card {
+  box-shadow: 0 5px 8px 0 rgba(212, 191, 191, 0.2);
+  transition: 0.3s;
+}
+
+.agregarB {
+  color: #ffc953;
+}
+
+.agregarB:hover {
+  color: #eadc77;
+}
+
+.icono {
+  font-size: 1.4em;
+  align-self: center;
+  color: #002a59;
+  cursor: pointer;
+}
+
+.icono:hover {
+  color: #0f509b;
+}
+
+.registrar {
+  background-color: #006c7e;
+}
+
+#respuestaA span.input-group-text  {
+  background-color: #28a745;
+}
+
+#respuestaB span.input-group-text  {
+  background-color: #dc3545;
+}
+
+span.input-group-text {
+  padding: 1em;
+}
+
+.enunciadoA {
+  text-align: left;
+  display: flex;
+  padding-bottom: 0.3rem;
+  font-weight: lighter;
+  font-size: 1.2rem;
+}
+
+.imagenTrivia {
+  object-fit:fill;
+  height: fit-content;
+  max-height: 350px;
+}
+
+#btnAgregar {
+  margin: 0; 
+  background-color: #ffc953; 
+  border-color: #ffc953;
+}
+
+#btnGuardarCambios {
+  color: #00c1b0;
+  background-color: white;
+  border-color: #00c1b0;
+  border-radius: 1.2em;
+  font-size: 1.2rem;
+}
+
+#btnGuardarCambios:hover {
+  color: white;
+  background-color: #00c1b0;
+  border-color: #fff;
+  border-radius: 1.2em;
+  font-size: 1.2rem;
+}
